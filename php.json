@@ -14,4 +14,18 @@
 		"description": "Log output to console"
 	}
 */
+	"lion annotation":{
+		"prefix": "lion",
+		"body": [
+			"/**",
+			" * ================",
+			" * @Author:    lion",
+			" * @ver:       $1",
+			" * @DataTime:  $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+			" * @describe:  $2",
+			" * ================",
+			" */"
+		],
+		"description": "lion annotation"
+	}
 }
