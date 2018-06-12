@@ -15,14 +15,16 @@
 	"prefix": {
 			"prefix": "pre",
 			"body": [
-				"\"prefix\": {",
+				"\"$1\": {",
 				"    \"prefix\": \"$1\",",
 				"    \"body\": [",
 				"        \"$3\"",
 				"    ],",
 				"    \"description\": \"$2\"",
-				"}"
+				"},",
+				""
 			],
 			"description": "set prefix"
-	}
+	},
+	
 }
