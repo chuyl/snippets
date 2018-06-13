@@ -19,5 +19,24 @@
 		],
 		"description": "@import \"filename\""
 	},
+	"slide": {
+		"prefix": "slide",
+		"body": [
+			"<!-- slide -->"
+		],
+		"description": "division page"
+	},
+	"setPage": {
+		"prefix": "setPage",
+		"body": [
+			"---",
+			"presentation:",
+			"    width: $1",
+			"    height: $2",
+			"---",
+			""
+		],
+		"description": "set presentation size"
+	},
 	
 }
