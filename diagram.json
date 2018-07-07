@@ -23,5 +23,14 @@
 		],
 		"description": "add start&end with name as filename"
 	},
+	"abstract class": {
+		"prefix": "abstract",
+		"body": [
+			"abstract class $1{",
+			"$2",
+			"}",
+		],
+		"description": "add abstract class"
+	},
 	
 }
