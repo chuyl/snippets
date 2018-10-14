@@ -19,6 +19,7 @@
 		],
 		"description": "@import \"filename\""
 	},
+<<<<<<< HEAD
 	"work_diary": {
 		"prefix": "work_diary",
 		"body": [
@@ -38,4 +39,26 @@
 		],
 		"description": "work_diary_temp"
 	},
+=======
+	"slide": {
+		"prefix": "slide",
+		"body": [
+			"<!-- slide -->"
+		],
+		"description": "division page"
+	},
+	"setPage": {
+		"prefix": "setPage",
+		"body": [
+			"---",
+			"presentation:",
+			"    width: $1",
+			"    height: $2",
+			"---",
+			""
+		],
+		"description": "set presentation size"
+	},
+	
+>>>>>>> 7b56a8afbaa645d5d6cd708b474aea6a270c3b68
 }
